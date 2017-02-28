@@ -1,2 +1,2 @@
 # test-git
-i have added something 
+i have deleted something 
